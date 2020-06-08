@@ -142,6 +142,7 @@ img {/*placing border and sizing the profile photo*/
 	width: 50%;
 	border-radius: 50%;
 	border: 1px solid #00FFFF;
+	align: center;
 }
 
 .border-top {
