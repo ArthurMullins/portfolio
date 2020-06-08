@@ -1,0 +1,21 @@
+/* General styles */
+
+body {
+	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
+}
+
+.logo {
+	font-family: 'Sriracha', 'Montserrat', cursive;
+}
+
+header {
+	background-color: #501F3A;
+}
+
+main {
+	background-color: #CCCCCC;
+}
+
+footer {
+	background-color: #0F292F;
+}
