@@ -3,9 +3,8 @@
 body {
 	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
-	background: url("trees.jpg");
-	background-repeat: no-repeat;
-	background-size: auto;
+	background: url("trees.jpg") no-repeat center center fixed;
+	background-size: cover;
 	
 }
 
