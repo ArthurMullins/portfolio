@@ -61,7 +61,6 @@ nav {
 	top: 0;
 	right: 0;
 	width: 100%;
-	background-color: #501F3A;
 	z-index: 1;
 	height: 20px;
 }
@@ -70,6 +69,10 @@ nav a {
 	padding: 10px;
 	margin: 0 auto;
 	z-index: 999;
+}
+
+#footerNav {
+	display: inline;
 }
 
 
