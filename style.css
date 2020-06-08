@@ -140,7 +140,7 @@ footer p {/*styling the copyright statement at the bottom of the page*/
 
 img {/*placing border and sizing the profile photo*/
 	width: 100%;
-	border-radius: 8px;
+	border-radius: 50%;
 	border: 1px solid #00FFFF;
 }
 
