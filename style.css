@@ -71,8 +71,11 @@ nav a {
 	z-index: 999;
 }
 
-#footerNav {
+footer a {
 	display: inline-block;
+}
+
+footer div {
 	width: 100%;
 }
 
