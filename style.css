@@ -58,6 +58,13 @@ nav {
 	float: right;
 	position: fixed;
 	top: 0;
+	width: 25%;
+	padding: 10px;
+	margin: 2px;
+}
+
+nav a {
+	float: right;
 }
 
 
