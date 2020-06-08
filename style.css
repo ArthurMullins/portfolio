@@ -86,9 +86,6 @@ footer a {/*spacing the anchors within the footer nav bar*/
 	padding: 10px 0 0 0;
 }
 
-section #home {
-	align: left;
-}
 
 .center {
 	display: block;
@@ -149,7 +146,6 @@ img {/*placing border and sizing the profile photo*/
 	width: 50%;
 	border-radius: 50%;
 	border: 1px solid #00FFFF;
-	align: center;
 }
 
 .border-top {
