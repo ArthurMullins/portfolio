@@ -54,6 +54,14 @@ hr {
 	margin: 0 auto;
 }
 
+nav {
+	float: right;
+	position: fixed;
+	top: 0;
+}
+
+
+
 /* Type */
 
 h1, h2, h3 {
