@@ -46,11 +46,11 @@ section {
 
 hr {
 	border: none;
-	border-top: 1px solid #14A098;
+	border-top: 1px dashed #14A098;
 	color: #14A098;
 	background-color: #14A098;
-	height: 4px;
-	width: 50%;
+	height: 2px;
+	width: 75%;
 	margin: 0 auto;
 }
 
@@ -67,14 +67,14 @@ h1 { font-size: 28px; }
 h2 { font-size: 26px; }
 h3 { font-size: 18px; }
 
-li {
+ol li {
 	font-family: 'Balsamiq Sans', 'Montserrat', sans-serif;
 	color: #501F3A;
 	line-height: 1.5em;
 	margin-bottom: 0;
 }
 
-p {
+p, li {
 	font-family: 'Montserrat', sans-serif;
 	color: #501F3A;
 	line-height: 1.5em;
