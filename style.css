@@ -38,16 +38,16 @@ footer {
 	
 section {
 	padding: 0 25%;
-  margin: 80px 0;
+	margin: 80px 0;
 }
 
 /* Type */
 
 h1, h2, h3 {
-  font-family: 'Montserrat', sans-serif;
-	color: #501F3A;
-  text-align: center;
-  font-weight: 500;
+	font-family: 'Balsamiq Sans', 'Montserrat', sans-serif;
+	color: #CB2D6F;
+	text-align: center;
+	font-weight: 500;
 }
 
 h1 { font-size: 28px; }
@@ -55,9 +55,10 @@ h2 { font-size: 26px; }
 h3 { font-size: 18px; }
 
 p, li {
- font-family: 'Montserrat', sans-serif;
- line-height: 1.5em;
- margin-bottom: 0;
+	font-family: 'Balsamiq Sans', 'Montserrat', sans-serif;
+	color: #501F3A;
+	line-height: 1.5em;
+	margin-bottom: 0;
 }
 	
 a {
