@@ -3,7 +3,10 @@
 body {
 	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
-	background-image: url("sea-edge-79ab30e2.png");
+	background: url("liquid.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	
 }
 
 .logo {
