@@ -20,8 +20,8 @@ body {
 
 header {
 	height: 140px;
-	background-color: #00FFFF;
-	/*background-image: url ();*/
+	/*background-color: #00FFFF;*/
+	background-image: linear-gradient(to bottom left, #9400D3, #4801CC);
 }
 
 header h2 {
@@ -37,8 +37,8 @@ main {
 }
 
 footer {
-	background-color: #8A2BE2;
-	/*background-image: url ();*/
+	/*background-color: #8A2BE2;*/
+	background-image: linear-gradient(to top right, #4801CC, #9400D3);
 }
 	
 section {
