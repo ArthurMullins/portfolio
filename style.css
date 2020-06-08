@@ -60,7 +60,7 @@ nav {/*setting the nav bar to have fixed links, sit at the top, and sit to the r
 	float: right;
 	position: fixed;
 	text-align: right;
-	top: 0;
+	top: 10px;
 	right: 0;
 	width: 100%;
 	z-index: 1;
