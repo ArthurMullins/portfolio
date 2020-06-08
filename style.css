@@ -1,15 +1,30 @@
 /* General styles */
 
 body {
+	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
 }
 
 .logo {
 	font-family: 'Sriracha', 'Montserrat', cursive;
+	font-size: 72px;
+	text-align: center;
+	letter-spacing: -3;
+	margin: 0;
+	padding: 20px 0 0 0;
 }
 
 header {
+	height: 140px;
 	background-color: #501F3A;
+}
+
+header h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #CB2D6F;
+	margin: 0;
+	text-size: 18px;
+	text-align: center;
 }
 
 main {
@@ -19,3 +34,52 @@ main {
 footer {
 	background-color: #0F292F;
 }
+	
+section {
+	padding: 0 25%;
+  margin: 80px 0;
+}
+
+/* Type */
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+	color: #501F3A;
+  text-align: center;
+  font-weight: 500;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 26px; }
+h3 { font-size: 18px; }
+
+p, li {
+ font-family: 'Montserrat', sans-serif;
+ line-height: 1.5em;
+ margin-bottom: 0;
+}
+	
+a {
+	font-weight: 700;
+	text-decoration: none;
+}
+a:link { color: #14A098; }
+a:visited { color: #14A098; }
+a:hover { color: #CB2D6F; }
+a:active { color: #CB2DD6F; }
+a:hover {
+	text-decoration: underline;
+}
+
+footer p {
+	color: #14A098;
+	text-align: center;
+	padding: 30px;
+	margin: 0;
+}
+
+
+
+
+
+
