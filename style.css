@@ -45,10 +45,15 @@ section {
 }
 
 hr {
+	border: none;
+	border-top: 1px dotted #14A098;
+	color: #14A098;
+	background-color: #14A098;
+	height: 1px;
 	width: 50%;
 	margin: 0 auto;
-	border-top: 1px dotted #14A098;
 }
+
 /* Type */
 
 h1, h2, h3 {
