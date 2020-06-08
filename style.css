@@ -3,6 +3,7 @@
 body {
 	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
+	background-image: url ();
 }
 
 .logo {
@@ -10,7 +11,7 @@ body {
 	font-size: 72px;
 	color: #CB2D6F;
 	text-align: center;
-	letter-spacing: -3;
+	letter-spacing: 0;
 	margin: 0;
 	padding: 20px 0 0 0;
 }
@@ -18,13 +19,14 @@ body {
 header {
 	height: 140px;
 	background-color: #501F3A;
+	background-image: url ();
 }
 
 header h2 {
 	font-family: 'Montserrat', sans-serif;
 	color: #CB2D6F;
 	margin: 0;
-	text-size: 18px;
+	font-size: 18px;
 	text-align: center;
 }
 
@@ -34,6 +36,7 @@ main {
 
 footer {
 	background-color: #0F292F;
+	background-image: url ();
 }
 	
 section {
@@ -68,7 +71,7 @@ a {
 a:link { color: #14A098; }
 a:visited { color: #14A098; }
 a:hover { color: #CB2D6F; }
-a:active { color: #CB2DD6F; }
+a:active { color: #CB2D6F; }
 a:hover {
 	text-decoration: underline;
 }
@@ -79,6 +82,18 @@ footer p {
 	padding: 30px;
 	margin: 0;
 }
+
+img {
+	width: 100%;
+	border-radius: 8px;
+	border: 1px solid #CB2D6F;
+}
+
+.border-top {
+	padding-top: 80px;
+	border-top: 2px solid #0F292F;
+}
+
 
 
 
