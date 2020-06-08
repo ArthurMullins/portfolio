@@ -125,8 +125,8 @@ a {
 }
 a:link { color: #F0F8FF; }
 a:visited { color: #F0F8FF; }
-a:hover { color: #808080; }
-a:active { color: #808080; }
+a:hover { color: #00FFFF; }
+a:active { color: #00FFFF; }
 a:hover {
 	text-decoration: underline;
 }
