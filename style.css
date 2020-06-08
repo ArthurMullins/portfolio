@@ -3,7 +3,7 @@
 body {
 	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
-	background-image: url ();
+	background-image: url (https://github.com/ArthurMullins/portfolio/blob/master/sea-edge-79ab30e2.png);
 }
 
 .logo {
@@ -19,7 +19,7 @@ body {
 header {
 	height: 140px;
 	background-color: #501F3A;
-	background-image: url ();
+	/*background-image: url ();*/
 }
 
 header h2 {
@@ -36,7 +36,7 @@ main {
 
 footer {
 	background-color: #0F292F;
-	background-image: url ();
+	/*background-image: url ();*/
 }
 	
 section {
