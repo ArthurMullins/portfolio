@@ -60,17 +60,14 @@ nav {
 	top: 10px;
 	right: 0px;
 	overflow: hidden;
-	width: 75%;
+	width: 100%;
 	padding: 10px;
 	margin: 10px;
 	background-color: #501F3A;
-	z-index: 1;
+	z-index: 999;
 }
 
-nav a {
-	text-align: right;
-	float: right;
-}
+
 
 
 
