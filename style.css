@@ -72,7 +72,8 @@ nav a {
 }
 
 #footerNav {
-	display: inline;
+	display: inline-block;
+	width: 100%;
 }
 
 
