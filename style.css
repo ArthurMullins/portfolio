@@ -46,10 +46,10 @@ section {
 
 hr {
 	border: none;
-	border-top: 1px dotted #14A098;
+	border-top: 1px solid #14A098;
 	color: #14A098;
 	background-color: #14A098;
-	height: 1px;
+	height: 4px;
 	width: 50%;
 	margin: 0 auto;
 }
@@ -79,7 +79,8 @@ p {
 	color: #501F3A;
 	line-height: 1.5em;
 	margin-bottom: 0;
-	
+}
+
 a {
 	font-weight: 700;
 	text-decoration: none;
