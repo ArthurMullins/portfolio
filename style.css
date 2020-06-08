@@ -71,9 +71,15 @@ nav a {
 	z-index: 999;
 }
 
+footer div {
+	display: inline-block;
+	width: 100%;
+}
+
 footer a {
 	display: inline-block;
-	width: 33.33%;
+	width: 33%;
+	text-align: center;
 }
 
 
