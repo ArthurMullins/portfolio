@@ -67,12 +67,18 @@ h1 { font-size: 28px; }
 h2 { font-size: 26px; }
 h3 { font-size: 18px; }
 
-p, li {
+li {
 	font-family: 'Balsamiq Sans', 'Montserrat', sans-serif;
 	color: #501F3A;
 	line-height: 1.5em;
 	margin-bottom: 0;
 }
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: #501F3A;
+	line-height: 1.5em;
+	margin-bottom: 0;
 	
 a {
 	font-weight: 700;
