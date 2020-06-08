@@ -3,7 +3,7 @@
 body {
 	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
-	background: url("slate.jpg") no-repeat center center fixed;
+	background: url("sea-edge-79ab30e2.png") no-repeat center center fixed;
 	background-size: cover;
 	
 }
@@ -11,7 +11,7 @@ body {
 .logo {
 	font-family: 'Sriracha', 'Montserrat', cursive;
 	font-size: 72px;
-	color: #CB2D6F;
+	color: #F0F8FF;
 	text-align: center;
 	letter-spacing: 0;
 	margin: 0;
@@ -20,13 +20,13 @@ body {
 
 header {
 	height: 140px;
-	background-color: #501F3A;
+	background-color: #00FFFF;
 	/*background-image: url ();*/
 }
 
 header h2 {
 	font-family: 'Montserrat', sans-serif;
-	color: #CB2D6F;
+	color: #F0F8FF;
 	margin: 0;
 	font-size: 18px;
 	text-align: center;
@@ -37,7 +37,7 @@ main {
 }
 
 footer {
-	background-color: #0F292F;
+	background-color: #8A2BE2;
 	/*background-image: url ();*/
 }
 	
@@ -49,7 +49,7 @@ section {
 hr {
 	border: none;
 	border-top: 1px dashed #14A098;
-	color: #14A098;
+	color: #F0F8FF;
 	background-color: #14A098;
 	height: 2px;
 	width: 75%;
@@ -93,7 +93,7 @@ footer a {
 
 h1, h2, h3 {
 	font-family: 'Balsamiq Sans', 'Montserrat', sans-serif;
-	color: #CB2D6F;
+	color: #FFFFFF;
 	text-align: center;
 	font-weight: 500;
 }
@@ -104,14 +104,14 @@ h3 { font-size: 18px; }
 
 ol li {
 	font-family: 'Balsamiq Sans', 'Montserrat', sans-serif;
-	color: #501F3A;
+	color: #FFFFFF;
 	line-height: 1.5em;
 	margin-bottom: 0;
 }
 
 p, li {
 	font-family: 'Montserrat', sans-serif;
-	color: #501F3A;
+	color: #FFFFFF;
 	line-height: 1.5em;
 	margin-bottom: 0;
 }
@@ -120,16 +120,16 @@ a {
 	font-weight: 700;
 	text-decoration: none;
 }
-a:link { color: #14A098; }
-a:visited { color: #14A098; }
-a:hover { color: #CB2D6F; }
-a:active { color: #CB2D6F; }
+a:link { color: #F0F8FF; }
+a:visited { color: #F0F8FF; }
+a:hover { color: #808080; }
+a:active { color: #808080; }
 a:hover {
 	text-decoration: underline;
 }
 
 footer p {
-	color: #14A098;
+	color: #00FFFF;
 	text-align: center;
 	padding: 30px;
 	margin: 0;
@@ -138,12 +138,12 @@ footer p {
 img {
 	width: 100%;
 	border-radius: 8px;
-	border: 1px solid #CB2D6F;
+	border: 1px solid #00FFFF;
 }
 
 .border-top {
 	padding-top: 80px;
-	border-top: 2px solid #0F292F;
+	border-top: 2px solid #00FFFF;
 }
 
 
