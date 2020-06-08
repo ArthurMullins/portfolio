@@ -1,6 +1,6 @@
 /* General styles */
 
-body {
+body {/*general positioning and styling for entire page, as well as background picture*/
 	margin: 0;
 	font-family: 'Balsamiq Sans', 'Montserrat', cursive;
 	background: url("sea-edge-79ab30e2.png") no-repeat center center fixed;
@@ -8,7 +8,7 @@ body {
 	
 }
 
-.logo {
+.logo {/*setting up my name at top of page as my logo*/
 	font-family: 'Sriracha', 'Montserrat', cursive;
 	font-size: 72px;
 	color: #F0F8FF;
@@ -18,9 +18,9 @@ body {
 	padding: 20px 0 0 0;
 }
 
-header {
+header {/*setting height and coloring for header*/
 	height: 140px;
-	/*background-color: #00FFFF;*/
+	/*background-color: #00FFFF;*//*commenting out code not currently being used*/
 	background-image: linear-gradient(to bottom left, #9400D3, #48D1CC);
 }
 
@@ -33,20 +33,20 @@ header h2 {
 }
 
 main {
-	/*background-color: #CCCCCC;*/
+	/*background-color: #CCCCCC;*//*commenting out code not currently being used*/
 }
 
-footer {
+footer {/*setting color for bottom footer section*/
 	/*background-color: #8A2BE2;*/
 	background-image: linear-gradient(to top right, #48D1CC, #9400D3);
 }
 	
-section {
+section {/*setting container sizing for sections within about sections*/
 	padding: 0 25%;
 	margin: 80px 0;
 }
 
-hr {
+hr {/*changing the style of the thematic breaks*/
 	border: none;
 	border-top: 1px dashed #14A098;
 	color: #F0F8FF;
@@ -56,7 +56,7 @@ hr {
 	margin: 0 auto;
 }
 
-nav {
+nav {/*setting the nav bar to have fixed links, sit at the top, and sit to the right*/
 	float: right;
 	position: fixed;
 	text-align: right;
@@ -67,7 +67,7 @@ nav {
 	height: 20px;
 }
 
-nav a {
+nav a {/*indexing the anchors within the nav bar, and sizing their containers*/
 	padding: 10px;
 	margin: 0 auto;
 	z-index: 999;
@@ -79,7 +79,7 @@ footer div {
 	padding: 10px 0 0 0;
 }
 
-footer a {
+footer a {/*spacing the anchors within the footer nav bar*/
 	display: inline-block;
 	width: 33%;
 	text-align: center;
@@ -111,7 +111,7 @@ ol li {
 	line-height: 1.5em;
 	margin-bottom: 0;
 }
-
+/*setting up the colors and fonts as well as backup fonts for all paragraph elements and list items (above and below this comment)*/
 p, li {
 	font-family: 'Montserrat', sans-serif;
 	color: #FFFFFF;
@@ -122,7 +122,7 @@ p, li {
 a {
 	font-weight: 700;
 	text-decoration: none;
-}
+}/*setting psuedo-classes for anchor elements*/
 a:link { color: #F0F8FF; }
 a:visited { color: #F0F8FF; }
 a:hover { color: #00FFFF; }
@@ -131,14 +131,14 @@ a:hover {
 	text-decoration: underline;
 }
 
-footer p {
+footer p {/*styling the copyright statement at the bottom of the page*/
 	color: #00FFFF;
 	text-align: center;
 	padding: 30px;
 	margin: 0;
 }
 
-img {
+img {/*placing border and sizing the profile photo*/
 	width: 100%;
 	border-radius: 8px;
 	border: 1px solid #00FFFF;
